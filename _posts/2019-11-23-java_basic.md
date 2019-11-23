@@ -1,3 +1,8 @@
+---
+layout: post
+title: "Java basic"
+---
+
 # Java basic  
   
 ## 源文件规则  
