@@ -6,11 +6,11 @@ title: "在ubuntu20.04上打包紫光华宇输入法"
 因为各种各样的原因，尝试打华宇紫光输入法linux版的deb包
 这次打包使用的代码是<http://bbs.unispim.com/forum.php?mod=viewthread&tid=70049&page=1#pid167067>这个帖子里的地址提到的
 
-[ubuntu的文档]<https://packaging.ubuntu.com/html/index.html>
+[ubuntu的文档](https://packaging.ubuntu.com/html/index.html)
 
-[debian的]<https://www.debian.org/doc/manuals/maint-guide>
+[debian的](https://www.debian.org/doc/manuals/maint-guide)
 
-[还是debian的]<https://www.debian.org/doc/manuals/debmake-doc/index.en.html>
+[还是debian的](https://www.debian.org/doc/manuals/debmake-doc/index.en.html)
 
 ubuntu的文档用的是bzr的版本管理，不是很熟悉，考虑到紫光代码在github上，就没继续了
 
