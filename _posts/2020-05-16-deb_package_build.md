@@ -70,11 +70,11 @@ $ git clone https://github.com/linhuman/ibus-lunispim.git
 * 第一次编译liblunispim的时候379行会有个
 
 ```
-Error format not a string literal and no format arguments [-Werror=format-security]的警告
+Error format not a string literal and no format arguments [-Werror=format-security]
 ```
+的警告
 
-看了下github，有个pr，但是没合并
-pr的内容是379行修改成这样
+看了下github，有个pr，但是没合并，pr的内容是379行修改成这样
 
 ```c
 result = fprintf("%s %s", stream, u8_buf);
